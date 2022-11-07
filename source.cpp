@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
-void main()
+int main()
 {
 
 	cout << "son of bitch ! \n";
 
-
-
+    return 0;
+         
 }
